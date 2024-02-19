@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.co{
+    height: 85px;
+    width: 7%;
+    padding-left: 100px;
+}
+.first{
+    height: 85px;
+    background-color: white;
+    width: 100%;
+    display: inline;
+    transition: none;
+    position: fixed;
+    top: 0;
+    box-shadow: rgb(236, 234, 234) 1px 1px 1px;
+}
+.Home{
+    margin-left: 600px;
+    margin-top: -50px;
+    color: #1d1d4b;
+}
+#News{
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#About{
+    border-style: none;
+    width: 70px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #1d1d4b;
+}
+#Prog{
+    border-style: none;
+    width: 105px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #1d1d4b;
+}
+#Adm{
+    border-style: none;
+    margin-left: 25px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #1d1d4b;
+}
+#E-Portal{
+    border-style: none;
+    margin-left: 25px;
+    width: 80px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #1d1d4b;
+}
+ .topic{
+    color: #1d1d4b;
+    height: 550px;
+    width: 38%;
+    margin-left: 100px;
+    
+}
+.study{
+    font-size: 70px;
+    padding-top: 1000px;
+    font-weight: bold;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.learn{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.model{
+    margin-left: 755px;
+    margin-top: -550px;
+    border-radius: 0px 0px 10px 60px;
+    /* height: 100%;
+    width: 550px;  */
+}
+.start{
+    width: 130px;
+    height: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color: #080874;
+    border-style: none;
+    margin-top: 35px;
+    font-weight: bold;
+}
+.work{
+    margin-top: 50px;
+    margin-left: 100px;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 33px;
+}
+.bd1{
+    margin-left: 50px;
+    width: 300px;
+    height: 30%;
+    
+    display: inline-block;
+}
+.bd2{
+    width: 300px;
+    height: 30%;
+    display: inline-block;
+}
+.africa{
+    height: 590px;
+    width: 100%;
+    background-color: rgb(231, 247, 244);
+    display: inline-block;
+}
+.making{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger; 
+    font-weight: bolder;
+    font-size: 50px; 
+}
+.history{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* @media screen and (min-width: 481px ) {
+    *{
+        
+        background-color: rgb(0, 217, 255);
+        color: white;
+    }
+    .hiaca{
+            /* font-weight: lighter;
+            font-size: 15px; 
+            color: rgb(250, 248, 248);
+            font-family: Arial, Helvetica, sans-serif;
+    }
+}
+@media screen and (min-width: 1200px ) {
+        *{
+            background-color: rgb(64, 31, 117);
+            /* background-image: radial-gradient(); 
+        }
+    } */

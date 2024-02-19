@@ -1,0 +1,233 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.team{
+    width: 100%;
+    margin-top: -5px;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.board{
+    height: 100px;
+    width: 40%;
+    /* background-color: yellow; */
+    margin-top: 100px;
+    margin-left: 130px;
+    display: inline-block;
+}
+.rev{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.pastor{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.council{
+    background-color: whitesmoke;
+    height: 1300px;
+    width: 100%;
+}
+.direct{
+    height: 950px;
+    width: 40%;
+    /* background-color: yellow; */
+    margin-left: 110px;
+    display: inline-block;
+}
+.aca{
+    height: 550px;
+    width: 100%;
+}
+.all{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ade{
+    font-weight: bolder;
+}
+.hiaca{
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgb(95, 83, 83);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.direct2{
+    height: 950px;
+    width: 40%;
+    /* background-color: yellow; */
+    margin-left: 70px;
+    display: inline-block;
+    /* margin-bottom: 400px; */
+}
+.admin1{
+    height: 300px;
+    width: 14%;
+    background-color: white;
+    margin-left: 100px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgb(228, 223, 223) 10px 10px 10px 10px;
+    display: inline-block;
+}
+.admin{
+    height: 300px;
+    width: 14%;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgb(228, 223, 223) 10px 10px 10px 10px;
+    display: inline-block;
+}
+.gda{
+    height: 150px;
+    width: 90%;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.dep1{
+    height: 300px;
+    width: 16%;
+    background-color: white;
+    margin-left: 170px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgb(228, 223, 223) 10px 10px 10px 10px;
+    display: inline-block;
+}
+.dep{
+    height: 300px;
+    width: 16%;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgb(228, 223, 223) 10px 10px 10px 10px;
+    display: inline-block;
+}
+h4{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+}
+.dep2{
+    height: 330px;
+    width: 18%;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgb(228, 223, 223) 10px 10px 10px 10px;
+    display: inline-block;
+}
+.dep3{
+    height: 330px;
+    width: 18%;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgb(228, 223, 223) 10px 10px 10px 10px;
+    display: inline-block;
+}
+h5{
+    color: rgb(70, 32, 114);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.dep4{
+    height: 330px;
+    width: 13%;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 10px 10px 10px 10px;
+    display: inline-block;
+}
+.gda2{
+    height: 180px;
+    width: 90%;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.hiaca2{
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgb(45, 33, 90);
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: white; */
+}
+
+/* @media screen and (min-width: 481px ) {
+    *{
+        
+        background-color: rgb(45, 33, 90);
+        color: white;
+    }
+    .hiaca{
+            font-weight: lighter;
+            font-size: 15px;
+            color: rgb(45, 33, 90);
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: white;
+    }
+    .hiaca2{
+        font-weight: lighter;
+        font-size: 15px;
+        color: rgb(246, 245, 250);
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(45, 33, 90);
+}
+    .first{
+        height: 85px;
+        background-color: rgb(45, 33, 90);
+        width: 100%;
+        display: inline;
+        transition: none;
+        position: fixed;
+        top: 0;
+        /* color: white; 
+        box-shadow: rgb(236, 234, 234) 1px 1px 1px;
+} */
+/* .Home{
+    margin-left: 600px;
+    margin-top: -50px;
+    color: #efeff5;
+}
+#News{
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#About{
+    border-style: none;
+    width: 70px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ececf5;
+}
+#Prog{
+    border-style: none;
+    width: 105px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #f2f2f8;
+}
+#Adm{
+    border-style: none;
+    margin-left: 25px;
+    width: 100px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #f4f4f8;
+}
+#E-Portal{
+    border-style: none;
+    margin-left: 25px;
+    width: 80px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #f5f5fc;
+} */
